@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://vitgri1.github.io/01-6-404-night-1/
+Site published at: https://vitgri1.github.io/01-6-404-Bike-night-1/
 
 Design: [Bicycle night](https://cdn.dribbble.com/users/1556322/screenshots/4026998/media/8341c9a4fa3e619d910ac09dca1108fe.png)
 
